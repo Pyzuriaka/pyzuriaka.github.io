@@ -8,6 +8,10 @@ body {
   padding: 5px;
 }
 
+p {
+	margin: 0 auto;
+}
+
 .thead {
 	border: 1px dashed red;
 	padding-bottom: 150px;
