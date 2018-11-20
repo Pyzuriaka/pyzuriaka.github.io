@@ -2,27 +2,20 @@
   box-sizing: border-box;
 }
 
-body {
-  background-color: #FFF;
-  margin: 5px;
-  padding: 5px;
-}
-
-p {
-	margin: 0 auto;
-}
-
 .thead {
-	border: 1px dashed red;
-	padding-bottom: 150px;
+	padding-bottom: 60px;
+	background-color: greenyellow;
 }
 
-.tbody {
-	border: 1px dashed blue;
-	padding-bottom: 300px;
+.tbody h1 {
+	text-align: center;
 }
 
 .tfooter {
 	border: 1px dashed orange;
 	padding-bottom: 50px;
+}
+
+.thead h1 {
+	
 }
