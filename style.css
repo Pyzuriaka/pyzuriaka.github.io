@@ -2,8 +2,7 @@
   box-sizing: border-box;
 }
 
-.thead {
-	padding-bottom: 60px;
+thead {
 	background-color: greenyellow;
 }
 
@@ -14,8 +13,4 @@
 .tfooter {
 	border: 1px dashed orange;
 	padding-bottom: 50px;
-}
-
-.thead h1 {
-	
 }
