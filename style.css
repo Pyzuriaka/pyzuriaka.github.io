@@ -3,9 +3,16 @@
 }
 
 .block2{
-	background-color: lightcoral;
+	background-color: rgb(238, 143, 143);
 }
 
+.block3{
+	background-color: rgb(243, 184, 184);
+}
+
+.block4{
+	background-color: lightblue;
+}
 
 /* * {
   box-sizing: border-box;
